@@ -1,4 +1,4 @@
-Issue Tracker
+KTVA Issue Tracker
 ===========
 
-To report a new issue, click <a href=''>here</a>.
+To report a new issue, click <a href='https://github.com/inquebugtracker/ktva-issues/issues'>here</a>.
