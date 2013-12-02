@@ -1,4 +1,4 @@
 Issue Tracker
 ===========
 
-To report a new issue, click the Issues link top right.
+To report a new issue, click <a href=''>here</a>.
